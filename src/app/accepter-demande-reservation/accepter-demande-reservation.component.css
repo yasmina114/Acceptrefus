@@ -1,0 +1,34 @@
+.reservation {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .reservation h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #4CAF50;
+  }
+  
+  .reservation p {
+    margin-bottom: 5px;
+  }
+  
+  .reservation button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .reservation button:hover {
+    background-color: #3e8e41;
+  }
+  
